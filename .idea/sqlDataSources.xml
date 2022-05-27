@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="c6e61e84-867c-47e6-9001-90942c1b3c1b" name="DDL Mapping">
+      <data-sources db="c82bf0a1-20fd-4608-8e3f-c3f475f9b51f" ddl="5f363017-7faf-4a45-a977-39f8c09b8120" />
+      <scope>
+        <node kind="database" qname="RRSDB" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="5f363017-7faf-4a45-a977-39f8c09b8120" />
+          <option name="name" value="RRSDB (DDL)" />
+          <option name="languageId" value="H2" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/src/main/resources/DatabaseDefine.ddl" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
