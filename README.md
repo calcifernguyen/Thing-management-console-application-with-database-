@@ -23,3 +23,5 @@ Functions: Handle exception and simple validate input<br>
 ![add-form](doc/UI_Capture/add-form.png)
 #### Search by serial
 ![search-by-serial](doc/UI_Capture/search-by-serial.png)
+#### Show all
+![show-all](doc/UI_Capture/show-all-video.png)
