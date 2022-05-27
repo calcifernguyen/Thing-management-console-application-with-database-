@@ -6,7 +6,7 @@ A console application manage things with h2 database<br>
 This project is FPT Java Fresher Entry Test ([view more](./doc/FR.ET.Practice.02.pdf))<br>
 <br>
 Functions: Handle exception and simple validate input<br>
-![functions]("./doc/UI capture/main-menu.png")
+![functions](doc/UI_Capture/main-menu.png)
 
 ## UML Diagram
 #### Database
@@ -16,10 +16,10 @@ Functions: Handle exception and simple validate input<br>
 
 ## UI Capture
 #### Main menu
-![main-menu]("./doc/UI capture/main-menu.png")
+![main-menu](doc/UI_Capture/main-menu.png)
 #### Add thing
-![add-thing]("./doc/UI capture/add-thing.png")
+![add-thing](doc/UI_Capture/add-thing.png)
 #### Form
-![add-form]("./doc/UI capture/add-form.png")
+![add-form](doc/UI_Capture/add-form.png)
 #### Search by serial
-![search-by-serial]("./doc/UI capture/search-by-serial.png")
+![search-by-serial](doc/UI_Capture/search-by-serial.png)
